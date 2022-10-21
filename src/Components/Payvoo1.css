@@ -1,0 +1,31 @@
+.navbar{
+   width: 100vw;
+   height: 100px;
+   background-color: whitesmoke;
+  
+
+}
+
+
+
+.paylogo{
+    width: 100px;
+    height: 50px;
+    
+    justify-content: flex-start;
+}
+
+.sidelogo{
+    justify-content: flex-end;
+    padding-right: 130px;
+}
+.bell{
+    width: 50px;
+    height: 50px;
+   
+}
+.logo{
+    width: 50px;
+    height: 50px;
+   border-radius: 30px;
+}
